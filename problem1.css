@@ -1,0 +1,49 @@
+header,h1
+{
+    margin: 5%;
+}
+
+
+
+header
+{
+    margin-top: 1%;
+    margin-left: 40%;
+    margin-right: 30%;
+    margin-bottom: 8%;
+    border: 5px solid blue;
+    position: relative;
+
+}
+
+h1
+{
+    position: relative;
+    text-align: center;
+    padding: 4%;
+}
+
+
+
+.indent
+{
+    list-style:decimal ;
+    position: relative;
+    left:50px;
+}
+
+.dot
+{
+    list-style: disc;
+}
+
+.bold
+{
+    list-style: none;
+    font-weight: bold;
+}
+.italic
+{
+    list-style: none;
+    font-style: italic;
+}

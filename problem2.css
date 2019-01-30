@@ -1,0 +1,63 @@
+body
+{
+    background-color: yellow;
+}
+
+header
+{
+    margin: 1.5% 15% 1.5% 15%;
+    background-color: gray;
+    clear: both;
+    text-align: center;
+}
+
+
+h1
+{
+    color: red;
+}
+
+
+section
+{
+    margin: 1.5% 1.5% 1.5% 1.5%;
+    position: relative;
+    float: left;
+    width: 20%;
+    /*left: 106px;*/
+}
+aside
+{
+    margin: 1.5% 1.5% 1.5% 1.5%;
+    position: relative;
+    float: right;
+    width: 15%;
+    right: 217px;
+}
+
+footer
+{
+    clear: both;
+    border: 2px solid black;
+    margin-bottom: 30px;
+}
+
+
+.removeDot
+{
+    position: relative;
+    list-style: none;
+    text-align: right;
+}
+
+.dogsize
+{
+    border: 3px solid gray ;
+    height: 147px;
+    resize: both;
+    padding: 2px;
+}
+img
+{
+    align: left;
+}
