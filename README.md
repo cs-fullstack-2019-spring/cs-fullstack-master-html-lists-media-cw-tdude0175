@@ -1,3 +1,6 @@
+### 2 POINTS
+### KEY: Good work! Don't overthink it man :-)
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
